@@ -1,0 +1,18 @@
+{
+    "name": "pyromani/wp_mock",
+    "description": "WordPress mocking for PHPUnit",
+    "authors": [
+        {
+            "name": "Ferdi van der Werf",
+            "email": "efcm@vdwerf.eu"
+        }
+    ],
+    "require": {
+        "phpunit/phpunit": "4.2.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "WpMock\\": "src/"
+        }
+    }
+}

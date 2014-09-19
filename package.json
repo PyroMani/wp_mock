@@ -1,0 +1,11 @@
+{
+  "name": "wp_mock",
+  "devDependencies": {
+    "grunt": "~0.4.2",
+    "grunt-clear": "^0.2.1",
+    "grunt-contrib-watch": "~0.5.3",
+    "grunt-phpcs": "~0.2.3",
+    "grunt-phplint": "~0.0.5",
+    "grunt-phpunit": "~0.3.2"
+  }
+}
